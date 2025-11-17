@@ -2,3 +2,4 @@ This is my first Git assignment file.
 Adding more content to the file for checkout assignment.
 Chapter two content line 1
 More content for chapter two
+Stash change 3
